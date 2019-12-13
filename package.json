@@ -1,0 +1,28 @@
+{
+  "name": "chalmers-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "serverless.com",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-google-cloudfunctions": "*"
+  },
+  "dependencies": {
+    "actions-on-google": "^2.2.0",
+    "firebase-admin": "^5.13.1",
+    "firebase-functions": "^2.0.2",
+    "dialogflow": "^0.6.0",
+    "dialogflow-fulfillment": "^0.5.0",
+    "@google/maps": "^0.5.0",
+    "compromise": "^11.12.0",
+    "csvtojson": "^2.0.4",
+    "haversine": "^1.1.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "request": "^2.88.0"
+  }
+}

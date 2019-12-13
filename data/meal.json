@@ -1,0 +1,1008 @@
+[
+  {
+    "address": "Osgoode Hall Cafeteria; 130 Queen St W, Toronto, M5H 2N6",
+    "organizationName": "Law Society Foundation - Lawyers Feed the Hungry Program - Osgoode Hall Cafeteria",
+    "phone_number": "416-947-3412",
+    "latitude": 43.652088,
+    "longitude": -79.385525,
+    "program": "Law Society Foundation - Lawyers Feed the Hungry Program - Osgoode Hall Cafeteria Breakfast",
+    "LGBTQ": true,
+    "resourceId": "001",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "06:45",
+        "endTime": "07:30",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Thu"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Tue", "Wed"]
+      }
+    ]
+  },
+  {
+    "address": "170 Jarvis St, Toronto, M5B 2B7",
+    "organizationName": "Haven Toronto",
+    "phone_number": "416-366-5377",
+    "latitude": 43.655562,
+    "longitude": -79.374328,
+    "program": "Haven Toronto Breakfast",
+    "LGBTQ": true,
+    "resourceId": "002",
+    "meals": [
+      {
+        "age": [],
+        "startTime": "08:15",
+        "endTime": "09:15",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "male",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [],
+        "startTime": "12:15",
+        "endTime": "13:15",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "male",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [],
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "type": "Snack",
+        "notes": "na",
+        "gender": "male",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sast", "Sun"]
+      }
+    ]
+  },
+  {
+    "address": "Adelaide Resource Centre for Women; 67 Adelaide St E, Toronto, M5C 1K6",
+    "organizationName": "Fred Victor - 24-Hour Drop-in for Women - Adelaide Resource Centre for Women",
+    "phone_number": "416-392-9292",
+    "latitude": 43.650986,
+    "longitude": -79.375299,
+    "program": "Fred Victor - 24-Hour Drop-in for Women - Adelaide Resource Centre for Women Breakfast",
+    "LGBTQ": false,
+    "resourceId": "003",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "female",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "female",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "female",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sun"]
+      }
+    ]
+  },
+  {
+    "address": "145 Queen St E, Toronto, M5A 1S1",
+    "organizationName": "Fred Victor - Open House Drop-In and Support Services - Queen and Jarvis Site",
+    "phone_number": "416-364-8228 ext 3318",
+    "latitude": 43.653626,
+    "longitude": -79.372972,
+    "program": "Fred Victor - Open House Drop-In and Support Services - Queen and Jarvis Site Snack",
+    "LGBTQ": false,
+    "resourceId": "004",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "12:00",
+        "endTime": "16:00",
+        "type": "Snack",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      }
+    ]
+  },
+  {
+    "address": "19 Trinity Square, Toronto, M5G 1B1",
+    "organizationName": "Church of the Holy Trinity - Drop-in Program",
+    "phone_number": "416-598-4521",
+    "latitude": 43.65456,
+    "longitude": -79.381518,
+    "program": "Church of the Holy Trinity - Drop-in Program Breakfast",
+    "LGBTQ": true,
+    "resourceId": "005",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "08:00",
+        "endTime": "09:30",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Tue"]
+      }
+    ]
+  },
+  {
+    "address": "323 Dundas St E, Toronto, M5A 2A2",
+    "organizationName": "Margaret's Housing and Community Support Services - Margaret's Toronto East Drop-In",
+    "phone_number": "647-367-2100",
+    "latitude": 43.658417,
+    "longitude": -79.370218,
+    "program": "Margaret's Housing and Community Support Services - Margaret's Toronto East Drop-In Breakfast",
+    "LGBTQ": true,
+    "resourceId": "006",
+    "meals": [
+      {
+        "age": [],
+        "startTime": "07:00",
+        "endTime": "08:30",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [],
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "type": "Snack",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [],
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Wed", "Sat"]
+      },
+      {
+        "age": [],
+        "startTime": "10:30",
+        "endTime": "12:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Thu", "Fri", "Sun"]
+      },
+      {
+        "age": [],
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "type": "Snack",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [],
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      }
+    ]
+  },
+  {
+    "address": "20 Gerrard St E, Toronto, M5B 2P3",
+    "organizationName": "Covenant House Toronto",
+    "phone_number": "416-598-4898",
+    "latitude": 43.659697,
+    "longitude": -79.381314,
+    "program": "Covenant House Toronto Lunch",
+    "LGBTQ": false,
+    "resourceId": "007",
+    "meals": [
+      {
+        "age": [16, 25],
+        "startTime": "11:30",
+        "endTime": "18:45",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [16, 25],
+        "startTime": "11:30",
+        "endTime": "18:45",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      }
+    ]
+  },
+  {
+    "address": "365 Spadina Ave, Toronto, M5T 2G3",
+    "organizationName": "Yonge Street Mission - Drop-In Centre - Evergreen Centre for Street Youth",
+    "phone_number": "416-929-9614 ext. 2200",
+    "latitude": 43.655789,
+    "longitude": -79.398639,
+    "program": "Yonge Street Mission - Drop-In Centre - Evergreen Centre for Street Youth Lunch",
+    "LGBTQ": false,
+    "resourceId": "008",
+    "meals": [
+      {
+        "age": [16, 24],
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      },
+      {
+        "age": [16, 24],
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"]
+      }
+    ]
+  },
+  {
+    "address": "25 Augusta Ave, (Rear Building), Toronto, M5T 2K7",
+    "organizationName": "St Felix Centre",
+    "phone_number": "416-203-1624",
+    "latitude": 43.648949,
+    "longitude": -79.3998,
+    "program": "St Felix Centre Snack",
+    "LGBTQ": false,
+    "resourceId": "009",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "type": "Snack",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "17:00",
+        "endTime": "18:30",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      }
+    ]
+  },
+  {
+    "address": "69 Fraser St, Toronto, M6K 1E9",
+    "organizationName": "St. Felix Centre Liberty Village Respite Site",
+    "phone_number": "416-392-8657",
+    "latitude": 43.5801607,
+    "longitude": -79.6777273,
+    "program": "St Felix Centre 24h Respite Site Snack",
+    "LGBTQ": false,
+    "resourceId": "010",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "type": "Snack",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      }
+    ]
+  },
+  {
+    "address": "519 Church St, Toronto, M4Y 2C9",
+    "organizationName": "519 Community Centre",
+    "phone_number": "416-392-6874",
+    "latitude": 43.666511,
+    "longitude": -79.381005,
+    "program": "519 Community Centre Brunch",
+    "LGBTQ": true,
+    "resourceId": "011",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "10:00",
+        "endTime": "15:30",
+        "type": "Brunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "18:00",
+        "endTime": "21:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon"]
+      }
+    ]
+  },
+  {
+    "address": "40 Oak St, Toronto, M5A 2C6",
+    "organizationName": "CRC - 40 Oaks",
+    "phone_number": "416-363-4234",
+    "latitude": 43.661402,
+    "longitude": -79.365256,
+    "program": "CRC - 40 Oaks Breakfast",
+    "LGBTQ": false,
+    "resourceId": "012",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Fri"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sat"]
+      }
+    ]
+  },
+  {
+    "address": "552 Adelaide St W, Toronto, M5V 3W8",
+    "organizationName": "Evangel Hall Mission",
+    "phone_number": "416-504-3563",
+    "latitude": 43.64545,
+    "longitude": -79.40243,
+    "program": "Evangel Hall Mission Breakfast",
+    "LGBTQ": false,
+    "resourceId": "013",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "09:00",
+        "endTime": "10:30",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "10:30",
+        "endTime": "12:30",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "17:30",
+        "endTime": "18:15",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sat"]
+      }
+    ]
+  },
+  {
+    "address": "162 Bloor St W, Toronto, M5S 1M4",
+    "organizationName": "Church of the Redeemer - Weekday Meal Program",
+    "phone_number": "416-922-4948",
+    "latitude": 43.669063,
+    "longitude": -79.394024,
+    "program": "Church of the Redeemer - Weekday Meal Program Breakfast",
+    "LGBTQ": false,
+    "resourceId": "014",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "08:00",
+        "endTime": "11:45",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      }
+    ]
+  },
+  {
+    "address": "103 Bellevue Ave, Toronto, M5T 2N8",
+    "organizationName": "Church of St Stephen-in-the-Fields - Meal Programs",
+    "phone_number": "416-921-6350",
+    "latitude": 43.656945,
+    "longitude": -79.403963,
+    "program": "Church of St Stephen-in-the-Fields - Meal Programs Breakfast",
+    "LGBTQ": false,
+    "resourceId": "015",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "07:30",
+        "endTime": "09:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sat"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "06:00",
+        "endTime": "08:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      }
+    ]
+  },
+  {
+    "address": "502 Spadina Ave, Toronto, M5S 2H1",
+    "organizationName": "Scott Mission",
+    "phone_number": "416-923-8872",
+    "latitude": 43.65863,
+    "longitude": -79.40074,
+    "program": "Scott Mission Breakfast",
+    "LGBTQ": false,
+    "resourceId": "016",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "10:30",
+        "endTime": "11:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "11:30",
+        "endTime": "12:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "16:00",
+        "endTime": "16:30",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "08:45",
+        "endTime": "09:45",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "19:00",
+        "endTime": "21:00",
+        "type": "lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      }
+    ]
+  },
+  {
+    "address": "St Peter's Church, Parish Hall; 659 Markham St, Toronto, M6G 2M1",
+    "organizationName": "Winter Welcome Table - Monday Supper",
+    "phone_number": "416-534-4219",
+    "latitude": 43.665635,
+    "longitude": -79.412509,
+    "program": "Winter Welcome Table - Monday Supper Dinner",
+    "LGBTQ": false,
+    "resourceId": "017",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "17:00",
+        "endTime": "21:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon"]
+      }
+    ]
+  },
+  {
+    "address": "Our Lady of Good Counsel; 867 College St, Toronto, M6H 1A1",
+    "organizationName": "Caribbean Canadian Catholic Centre - Soup Kitchen",
+    "phone_number": "416-534-1145",
+    "latitude": 43.654021,
+    "longitude": -79.423825,
+    "program": "Caribbean Canadian Catholic Centre - Soup Kitchen Lunch",
+    "LGBTQ": false,
+    "resourceId": "018",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Wed"]
+      }
+    ]
+  },
+  {
+    "address": "962 Bloor St W, Toronto, M6H 1L6",
+    "organizationName": "Sistering - Drop-In Centre Bloor Street - Bloor Street Office",
+    "phone_number": "416-926-1946",
+    "latitude": 43.661587,
+    "longitude": -79.428873,
+    "program": "Sistering - Drop-In Centre Bloor Street - Bloor Street Office Breakfast",
+    "LGBTQ": true,
+    "resourceId": "019",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "09:30",
+        "endTime": "11:30",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "female",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "female",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "19:30",
+        "endTime": "21:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "female",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      }
+    ]
+  },
+  {
+    "address": "250 Dunn Ave, Toronto, M6K 2R9",
+    "organizationName": "Dale Ministries - Monday Lunch - Bonar Parkdale Presbyterian Church",
+    "phone_number": "647-926-6352",
+    "latitude": 43.640117,
+    "longitude": -79.434503,
+    "program": "Dale Ministries - Monday Lunch - Bonar Parkdale Presbyterian Church Breakfast",
+    "LGBTQ": false,
+    "resourceId": "020",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "10:00",
+        "endTime": "13:00",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "13:00",
+        "endTime": "15:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon"]
+      }
+    ]
+  },
+  {
+    "address": "1499 Queen St W, Toronto, M6R 1A3",
+    "organizationName": "Parkdale Activity-Recreation Centre",
+    "phone_number": "416-537-2262",
+    "latitude": 43.639574,
+    "longitude": -79.440527,
+    "program": "Parkdale Activity-Recreation Centre Breakfast",
+    "LGBTQ": false,
+    "resourceId": "021",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "09:15",
+        "endTime": "10:15",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "11:15",
+        "endTime": "12:15",
+        "type": "Breakfast",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sat", "Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon", "Tue", "Wed", "Thu"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Fri", "Sat", "Sun"]
+      }
+    ]
+  },
+  {
+    "address": "Corpus Christi Catholic Church, Parish Hall; 16 Lockwood Rd, Toronto, M4L 3T8",
+    "organizationName": "Beach Interfaith Outreach Program - Monday Lunch, Corpus Christi Catholic Church",
+    "phone_number": "416-694-0382",
+    "latitude": 43.668499,
+    "longitude": -79.309445,
+    "program": "Beach Interfaith Outreach Program - Monday Lunch, Corpus Christi Catholic Church Lunch",
+    "LGBTQ": false,
+    "resourceId": "022",
+    "meals": [
+      {
+        "age": [],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Mon"]
+      }
+    ]
+  },
+  {
+    "address": "70 Silver Birch AveToronto, ON M4E 3K9\n",
+    "organizationName": "Beach Interfaith Outreach Program - Tuesday − St Nicholas Anglican Church and St. Aidan’s",
+    "phone_number": "na",
+    "latitude": 43.671627,
+    "longitude": -79.284996,
+    "program": "Beach Interfaith Outreach Program - Tuesday − St Nicholas Anglican Church and St. Aidan’s Lunch",
+    "LGBTQ": false,
+    "resourceId": "023",
+    "meals": [
+      {
+        "age": [],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Tue"]
+      }
+    ]
+  },
+  {
+    "address": "109 Kenilworth Ave, Toronto, ON M4L 3S4",
+    "organizationName": "Beach Interfaith Outreach Program -Wednesday ",
+    "phone_number": "416-694-7942",
+    "latitude": 43.668137,
+    "longitude": -79.300964,
+    "program": "Beach Interfaith Outreach Program -Wednesday  Lunch",
+    "LGBTQ": false,
+    "resourceId": "024",
+    "meals": [
+      {
+        "age": [],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Wed"]
+      }
+    ]
+  },
+  {
+    "address": "140 Wineva Ave, Toronto, ON M4E 2T4",
+    "organizationName": "Beach Interfaith Outreach Program -Thursday",
+    "phone_number": "416-691-8082",
+    "latitude": 43.672871,
+    "longitude": -79.296783,
+    "program": "Beach Interfaith Outreach Program -Thursday Lunch",
+    "LGBTQ": false,
+    "resourceId": "025",
+    "meals": [
+      {
+        "age": [],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Thu"]
+      }
+    ]
+  },
+  {
+    "address": "975 Kingston Rd, Toronto, ON M4E 1T1",
+    "organizationName": "Beach Interfaith Outreach Program -Friday",
+    "phone_number": "416-699-6091",
+    "latitude": 43.680326,
+    "longitude": -79.2866916,
+    "program": "Beach Interfaith Outreach Program -Friday Lunch",
+    "LGBTQ": false,
+    "resourceId": "026",
+    "meals": [
+      {
+        "age": [],
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Fri"]
+      }
+    ]
+  },
+  {
+    "address": "Roncesvalles United Church; 214 Wright Ave, Bsmt, Toronto, M6R 1L3",
+    "organizationName": "Roncesvalles United Church - Sunday Lunch and Supper",
+    "phone_number": "416-536-1755",
+    "latitude": 43.645395,
+    "longitude": -79.448947,
+    "program": "Roncesvalles United Church - Sunday Lunch and Supper Lunch",
+    "LGBTQ": false,
+    "resourceId": "027",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "13:00",
+        "endTime": "13:30",
+        "type": "Lunch",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      },
+      {
+        "age": [0, 99],
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "type": "Dinner",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Sun"]
+      }
+    ]
+  },
+  {
+    "address": "Fellowship Hall; 2029 Gerrard St E, Toronto, M4E 2B3",
+    "organizationName": "Grant AME Church - Soup Kitchen",
+    "phone_number": "416-690-5169",
+    "latitude": 43.68169,
+    "longitude": -79.308437,
+    "program": "Grant AME Church - Soup Kitchen Food bank",
+    "LGBTQ": false,
+    "resourceId": "028",
+    "meals": [
+      {
+        "age": [0, 99],
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "type": "Food bank",
+        "notes": "na",
+        "gender": "mix",
+        "race": "",
+        "dayOfWeek": ["Fri"]
+      }
+    ]
+  }
+]
